@@ -1,0 +1,5 @@
+AGE,WORKCLASS,FNLWGT,EDUCATION,EDUCATION-NUM,MARITAL_STATUS,OCCUPATION,RELATIONSHIP,RACE,SEX,CAPITAL_GAIN,CAPITAL_LOSS,HOURS_PER_WEEK,NATIVE_COUNTRY
+31, Private,84154, Some-college,10, Married-civ-spouse, Sales, Husband, White, Male,0,0,38, ?
+48, Self-emp-not-inc,265477, Assoc-acdm,12, Married-civ-spouse, Prof-specialty, Husband, White, Male,0,0,40, United-States
+31, Private,507875, 9th,5, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,0,0,43, United-States
+53, Self-emp-not-inc,88506, Bachelors,13, Married-civ-spouse, Prof-specialty, Husband, White, Male,0,0,40, United-States
