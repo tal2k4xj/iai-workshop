@@ -7,3 +7,7 @@
 [Choosing the right tool](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/tools.html?context=cpdaas&audience=wdp)
 
 [Video Library](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/videos.html)
+
+# Pandas hands-on workshop
+
+[Link to the workshop files](https://drive.google.com/drive/folders/1hAxnAQs7pOPsU4lDS5GIaVJ7cG6g6M-D?usp=sharing)
