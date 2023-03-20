@@ -29,7 +29,7 @@
 * Select the **"Jupyter notebook editor"**.
 * Select the **"From URL"** tab.
 * Fill the **Name** with **"iai-data-notebook"**.
-* Fill the ***"Notebook URL"** with this link: 
+* Fill the ***"Notebook URL"** with this link: https://raw.githubusercontent.com/tal2k4xj/iai-workshop/main/IAI%20data%20lab/real-iai-data.ipynb
 * Click **"Create"**.
 
 ## 4. Add the data to Notebook.
