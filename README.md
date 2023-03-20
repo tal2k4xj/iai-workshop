@@ -10,4 +10,4 @@
 
 # Pandas hands-on workshop
 
-[Link to the workshop files](https://drive.google.com/drive/folders/1hAxnAQs7pOPsU4lDS5GIaVJ7cG6g6M-D?usp=sharing)
+[Link to the workshop files](https://ibm.biz/iai-course)
