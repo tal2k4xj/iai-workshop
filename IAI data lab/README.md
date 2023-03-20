@@ -14,7 +14,7 @@
 * Fill the **Name** with **"iai-data"**.
 * Under the "Connection details" fill the **Bucket** with **"iai-data"**.
 * Fill the Login **URL** with **"s3.us-south.cloud-object-storage.appdomain.cloud"**.
-* Copy the Json of the [connection credentials](https://cloud.ibm.com/objectstorage/crn%3Av1%3Abluemix%3Apublic%3Acloud-object-storage%3Aglobal%3Aa%2F540ab0b7636d4bbb90e829db0ac2bd82%3A1cb119cc-c83f-4319-83b8-ba1be099ef38%3A%3A) and paste it in the **"Service credentials"**.
+* Copy the Json of the [connection credentials](https://cloud.ibm.com/objectstorage/crn%3Av1%3Abluemix%3Apublic%3Acloud-object-storage%3Aglobal%3Aa%2F540ab0b7636d4bbb90e829db0ac2bd82%3A1cb119cc-c83f-4319-83b8-ba1be099ef38%3A%3A) under the **"Service credentials"** and paste it in the **"Service credentials"**.
 * Click **"Create"**.
 
 ## 2. Import asset from Object Storage.
