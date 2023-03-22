@@ -11,3 +11,14 @@
 # Pandas hands-on workshop
 
 [Link to the workshop files](https://ibm.biz/iai-course)
+
+## Data refinery hands-on workshop
+[Refine data](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-refine.html?context=cpdaas&audience=wdp)
+
+# AutoAI hands-on workshop
+
+[AutoAI](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?context=cpdaas&audience=wdp)
+
+# Dashboards hands-on workshop
+
+[Cognos dashboards](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-start-story.html?context=cpdaas&audience=wdp)
