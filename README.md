@@ -15,6 +15,8 @@
 ## Data refinery hands-on workshop
 [Refine data](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-refine.html?context=cpdaas&audience=wdp)
 
+[Videos with examples](https://video.ibm.com/playlist/648076)
+
 # AutoAI hands-on workshop
 
 [AutoAI](https://eu-gb.dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?context=cpdaas&audience=wdp)
